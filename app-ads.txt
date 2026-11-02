@@ -14,6 +14,8 @@ yandex.com, 333847197, DIRECT
 yango-ads.com, 333847197, DIRECT
 # InMobi
 inmobi.com, 290bd74ea80a420c822c0ab29842b6ff, DIRECT, 83e75a7ae333ca9d
+# Meta Audience Network
+facebook.com, 4442894225977818, DIRECT, c3e20eee3f780d68
 
 # ===== Unity Ads RESELLER (from Unity Ads dashboard, 161 lines) =====
 adwmg.com, 159512, RESELLER, c9688a22012618e7
